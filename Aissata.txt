@@ -1,2 +1,2 @@
-Je suis Aïssata Kanouté 
-Fontionnalités à développé : Gestion des utlisateurs
+Je suis Aïssata Kanouté
+Fonctionnalité à développé : Gestion des utulisateurs
