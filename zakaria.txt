@@ -1,0 +1,3 @@
+Je suis Zakaria NOUHOU, je suis membre du groupe, je suis dévéloppeur informaticien de formation,
+ passionné par le dévéloppement ful stack.
+Je suis chargé de developper la fonctionnalité gestion de patients.
