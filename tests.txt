@@ -1,0 +1,10 @@
+Test 1:Developer  l'interface du patient; responsable: Balla
+Test 2:fonctionnalité accueil du projet; responsable: Moulaye
+Test 3:Gestion des utulisateurs ; responsable : Kanouté
+Test 4:Gestion des patients; responsable: Zakaria
+Test 5:Mise en place des formulaires; responsable: Sissoko
+Test 6:Gestion des données; responsable: Ayouba
+Test 7:Configuration de prototypage; responsable: Soukouna
+Test 8:Gestion de ordonnaces; responsable: Sylla
+Test 9: Design ; responsable: Diaye
+Test 10: Design ; responsable: Salif
