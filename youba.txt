@@ -1,0 +1,24 @@
+Nom : Youba Sanogo
+Rôle : Développeur
+
+Formation : Licence en Réseaux et Télécommunications
+
+Compétences :
+
+Développement d’applications
+
+Git & GitHub
+
+Bases en réseaux et sécurité
+
+Travail collaboratif
+
+🔹 Fonctionnalités à développer
+
+Développement des principales fonctionnalités de l’application santé
+
+Implémentation de l’interface utilisateur
+
+Gestion des données
+
+Tests et correction des bugs
