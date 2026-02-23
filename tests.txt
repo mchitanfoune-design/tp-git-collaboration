@@ -8,6 +8,3 @@ Test 7:Configuration de prototypage; responsable: Soukouna
 Test 8:Gestion de ordonnaces; responsable: Sylla
 Test 9: Design ; responsable: Diaye
 Test 10: Design ; responsable: Salif
-
-
-bgdcb bdfhbb bfdhibb f bdfh nbhbhd  hv 
