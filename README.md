@@ -1,4 +1,4 @@
-\*\*Nom du projet:\*\*  K3N3YA YIRIWA
+\*\*Nom du projet:\*\*  K3N3YA YIRIWALI
 
 \*\*Description du projet: \*\* L’application fournit des conseils préventifs, des rappels médicaux, des informations sur l’hygiène, l’alimentation équilibrée, l’activité physique et la prévention des maladies courantes.
 
