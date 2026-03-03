@@ -8,6 +8,9 @@ Localisation : Mali
  Objectif
 Devenir développeur full-stack compétent et maîtriser Git & GitHub.
 
+Fonctionnalité
+Design
+
  Compétences
 - HTML / CSS
 - Git
